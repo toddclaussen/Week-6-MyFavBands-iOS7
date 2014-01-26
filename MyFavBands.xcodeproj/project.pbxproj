@@ -519,6 +519,7 @@
 				123C7BC617FA171E0006AFC7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		123C7BC717FA171E0006AFC7 /* Build configuration list for PBXNativeTarget "MyFavBandsTests" */ = {
 			isa = XCConfigurationList;
@@ -527,6 +528,7 @@
 				123C7BC917FA171E0006AFC7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
