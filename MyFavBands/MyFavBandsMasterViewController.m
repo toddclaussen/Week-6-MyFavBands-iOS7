@@ -27,7 +27,7 @@
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
     self.title = @"My Favorite Bands";
-    NSArray *listArray = [[NSArray alloc] initWithObjects:@"Joe Cocker", @"Leonard Skynard", @"Eagles",@"Journey",@"38 Special", @"Miranda Lambert",@"Little Big Town",@"Band Perry",nil];
+    NSArray *listArray = [[NSArray alloc] initWithObjects:@"The Beatles", @"Rolling Stones", @"Led Zeppelin",@"Steely Dan",@"Talking Heads",nil];
     self.list = listArray;
 }
 

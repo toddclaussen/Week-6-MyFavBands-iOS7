@@ -7,6 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0F45C8BD18BC40430006D685 /* Rolling Stones.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0F45C8B818BC40430006D685 /* Rolling Stones.jpg */; };
+		0F45C8BE18BC40430006D685 /* Led Zeppelin.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0F45C8B918BC40430006D685 /* Led Zeppelin.jpg */; };
+		0F45C8BF18BC40430006D685 /* Talking Heads.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0F45C8BA18BC40430006D685 /* Talking Heads.jpg */; };
+		0F45C8C018BC40430006D685 /* Steely Dan.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0F45C8BB18BC40430006D685 /* Steely Dan.jpg */; };
+		0F45C8C118BC40430006D685 /* The Beatles.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0F45C8BC18BC40430006D685 /* The Beatles.jpg */; };
 		123C7B9317FA171E0006AFC7 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 123C7B9217FA171E0006AFC7 /* Foundation.framework */; };
 		123C7B9517FA171E0006AFC7 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 123C7B9417FA171E0006AFC7 /* CoreGraphics.framework */; };
 		123C7B9717FA171E0006AFC7 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 123C7B9617FA171E0006AFC7 /* UIKit.framework */; };
@@ -43,6 +48,11 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		0F45C8B818BC40430006D685 /* Rolling Stones.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Rolling Stones.jpg"; path = "../../Downloads/Rolling Stones.jpg"; sourceTree = "<group>"; };
+		0F45C8B918BC40430006D685 /* Led Zeppelin.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Led Zeppelin.jpg"; path = "../../Downloads/Led Zeppelin.jpg"; sourceTree = "<group>"; };
+		0F45C8BA18BC40430006D685 /* Talking Heads.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Talking Heads.jpg"; path = "../../Downloads/Talking Heads.jpg"; sourceTree = "<group>"; };
+		0F45C8BB18BC40430006D685 /* Steely Dan.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Steely Dan.jpg"; path = "../../Downloads/Steely Dan.jpg"; sourceTree = "<group>"; };
+		0F45C8BC18BC40430006D685 /* The Beatles.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "The Beatles.jpg"; path = "../../Downloads/The Beatles.jpg"; sourceTree = "<group>"; };
 		123C7B8F17FA171E0006AFC7 /* MyFavBands.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyFavBands.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		123C7B9217FA171E0006AFC7 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		123C7B9417FA171E0006AFC7 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -178,6 +188,11 @@
 		123C7BCA17FA19B30006AFC7 /* Photos */ = {
 			isa = PBXGroup;
 			children = (
+				0F45C8B818BC40430006D685 /* Rolling Stones.jpg */,
+				0F45C8B918BC40430006D685 /* Led Zeppelin.jpg */,
+				0F45C8BA18BC40430006D685 /* Talking Heads.jpg */,
+				0F45C8BB18BC40430006D685 /* Steely Dan.jpg */,
+				0F45C8BC18BC40430006D685 /* The Beatles.jpg */,
 				123C7BCB17FA19F10006AFC7 /* 38 Special.jpg */,
 				123C7BCC17FA19F10006AFC7 /* Band Perry.jpg */,
 				123C7BCD17FA19F10006AFC7 /* Eagles.jpg */,
@@ -274,14 +289,19 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0F45C8BE18BC40430006D685 /* Led Zeppelin.jpg in Resources */,
 				123C7BD917FA19F10006AFC7 /* Little Big Town.jpg in Resources */,
 				123C7BD617FA19F10006AFC7 /* Joe Cocker.jpg in Resources */,
 				123C7BAE17FA171E0006AFC7 /* Images.xcassets in Resources */,
+				0F45C8BF18BC40430006D685 /* Talking Heads.jpg in Resources */,
+				0F45C8C018BC40430006D685 /* Steely Dan.jpg in Resources */,
 				123C7BD417FA19F10006AFC7 /* Band Perry.jpg in Resources */,
+				0F45C8C118BC40430006D685 /* The Beatles.jpg in Resources */,
 				123C7BD317FA19F10006AFC7 /* 38 Special.jpg in Resources */,
 				123C7B9D17FA171E0006AFC7 /* InfoPlist.strings in Resources */,
 				123C7BD517FA19F10006AFC7 /* Eagles.jpg in Resources */,
 				123C7BD817FA19F10006AFC7 /* Leonard Skynard.jpg in Resources */,
+				0F45C8BD18BC40430006D685 /* Rolling Stones.jpg in Resources */,
 				123C7BDA17FA19F10006AFC7 /* Miranda Lambert.jpg in Resources */,
 				123C7BD717FA19F10006AFC7 /* Journey.jpg in Resources */,
 				123C7BA617FA171E0006AFC7 /* Main.storyboard in Resources */,
